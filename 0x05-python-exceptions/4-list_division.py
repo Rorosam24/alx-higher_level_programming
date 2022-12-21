@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 
 def list_division(my_list_1, my_list_2, list_length):
@@ -25,5 +26,9 @@ def list_division(my_list_1, my_list_2, list_length):
             print("out of range")
             div = 0
         finally:
+python
             new_list.append(div)
     return (new_list)
+            pass
+    return result
+    master
